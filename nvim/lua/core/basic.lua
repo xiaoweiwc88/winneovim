@@ -1,6 +1,6 @@
 vim.opt.number = true
 vim.opt.relativenumber = true
-vim.opt.so = 999
+-- vim.opt.so = 999
 vim.opt.cul = true
 vim.opt.cc = "100"
 vim.opt.expandtab = true
